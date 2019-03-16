@@ -32,7 +32,8 @@ Then modify your `gridsome.config.js` to add the plugin in the 'remark' array
       }
     },
   ]
-}```
+}
+```
 
 # How to add attributes to your markdown:
  _(from remark-attr readme)_
