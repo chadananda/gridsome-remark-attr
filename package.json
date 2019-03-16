@@ -1,9 +1,9 @@
 {
   "version": "0.0.1",
-  "name": "gridsome-remark-attrs",
+  "name": "gridsome-remark-attr",
   "description": "Attrs for Gridsome",
-  "homepage": "https://github.com/chadananda/gridsome-remark-attrs",
-  "repository": "https://github.com/chadananda/gridsome-remark-attrs",
+  "homepage": "https://github.com/chadananda/gridsome-remark-attr",
+  "repository": "https://github.com/chadananda/gridsome-remark-attr",
   "main": "index.js",
   "keywords": [
     "gridsome",
